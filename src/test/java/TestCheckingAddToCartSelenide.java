@@ -12,7 +12,7 @@ public class TestCheckingAddToCartSelenide {
 
     @BeforeMethod
     public void before(){
-        Configuration.startMaximized =true;
+        //Configuration.startMaximized =true;
         open("https://rozetka.com.ua");
     }
 
